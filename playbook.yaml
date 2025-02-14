@@ -1,0 +1,5 @@
+- name: Kafka Installation
+  hosts: localhost
+  tasks:
+    - name: Include all.yml
+      ansible.builtin.import_playbook: confluent.platform.all
