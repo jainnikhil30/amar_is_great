@@ -1,3 +1,4 @@
+---
 - name: Kafka Installation
   hosts: localhost
   tasks:
