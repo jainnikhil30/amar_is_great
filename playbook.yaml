@@ -1,6 +1,3 @@
 ---
-- name: Kafka Installation
-  hosts: localhost
-  tasks:
-    - name: Include all.yml
-      ansible.builtin.import_playbook: amar.amarcollection.all
+- name: Include all.yml
+  ansible.builtin.import_playbook: amar.amarcollection.all
