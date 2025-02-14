@@ -1,0 +1,4 @@
+---
+collections:
+  - name: confluenct.platform
+    version: 7.7.2
