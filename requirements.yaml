@@ -2,4 +2,4 @@
 collections:
   - name: https://github.com/jainnikhil30/amarcollection.git
     type: git
-    version: devel
+    version: main
