@@ -1,3 +1,5 @@
 ---
 collections:
-  - name: confluenct.platform
+  - name: https://github.com/jainnikhil30/amarcollection.git
+    type: git
+    version: devel
